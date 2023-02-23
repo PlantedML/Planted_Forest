@@ -1,3 +1,5 @@
+This repository is depreciated. A newer and active version is available on https://github.com/PlantedML/randomPlantedForest.
+
 # Planted_Forest
 
 23/12/2020 Very first version released. 
